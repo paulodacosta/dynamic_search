@@ -1,6 +1,6 @@
 <?php
 
-id = $_POST[id];
+$id = $_POST[id];
 
 $field1 = $_POST[field1];
 $field2 = $_POST[field2];
